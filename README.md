@@ -22,4 +22,16 @@
 4) Media Servers
   i) MCU
   ii) SFU
+  
+### Some WebRTC Libraries/frameworks :
 
+1) webRTC.io
+2) simple-peer
+3) easyRTC
+4) rtc.io
+
+## What is used in this application?
+
+1) WebRTC.io
+2) peer to peer mesh architecture
+3) public STUN server ('stun:stun1.l.google.com:19302')
