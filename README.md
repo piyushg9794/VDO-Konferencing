@@ -35,7 +35,7 @@
 1) WebRTC.io
 2) peer to peer
 3) public STUN server ('stun:stun1.l.google.com:19302')
-4) firebase cloud store for storing room ID's
+4) firebase cloud store as a database
 5) Firebase hosting 
 6) Material.io components for faster UI development
 
