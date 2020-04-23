@@ -43,3 +43,13 @@
 
 1) P2P mesh implementation 
 2) RTCDataChannel Implementation
+
+## How to use :
+
+1) clone the repository
+2) create a project in firebase with firestore support
+3) install firebase CLI in your system
+4) Authenticate firebase CLI and navigate to your project
+5) provide an alias fro your project
+6) run firebase serve --only hosting
+7) enjoy!
