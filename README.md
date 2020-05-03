@@ -53,3 +53,6 @@
 5) provide an alias fro your project
 6) run firebase serve --only hosting
 7) enjoy!
+
+![](https://github.com/piyushg9794/VDO-Konferencing/blob/master/ss/img1.png)
+![](https://github.com/piyushg9794/VDO-Konferencing/blob/master/ss/img2.png)
